@@ -994,9 +994,6 @@ Apache License
 
 
 
-ngx-indexed-db
-ISC
-
 @ngx-pwa/local-storage
 MIT
 The MIT License
@@ -1062,6 +1059,10 @@ MIT
 
 @angular/material/card
 
+@angular/material/menu
+
+@angular/material/icon
+
 @angular/material/sort
 
 @angular/material/table
@@ -1076,13 +1077,11 @@ MIT
 
 @angular/material/paginator
 
-@angular/material/icon
+@angular/material/checkbox
 
 @angular/material/radio
 
 @angular/material/autocomplete
-
-@angular/material/checkbox
 
 @angular/service-worker
 MIT

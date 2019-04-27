@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.0032a79ca5cc77e3d52a.js",
+        "/main.ab540308520ed07e10ca.js",
         "/polyfills.20ab2d163684112c2aba.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/styles.e6166db14e143b6a13dd.css"
@@ -112,7 +112,9 @@
         "/assets/scripts/turf.min.js",
         "/assets/scripts/waypoints.min.js"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/maxcdn\\.bootstrapcdn\\.com\\/bootstrap\\/3\\.3\\.7\\/css\\/bootstrap\\.min\\.css"
+      ]
     }
   ],
   "dataGroups": [
@@ -122,9 +124,9 @@
         "\\/myrest_api\\/.*"
       ],
       "strategy": "freshness",
-      "maxSize": 100000,
+      "maxSize": 5,
       "maxAge": 21600000,
-      "timeoutMs": 120000,
+      "timeoutMs": 10000,
       "version": 1
     }
   ],
@@ -220,8 +222,8 @@
     "/assets/scripts/turf.min.js": "299dda77ee38bd9ee3f69fb5a8009a028e611303",
     "/assets/scripts/waypoints.min.js": "812d7071b4e44b1aa5d5ea6c7ce0b79eb9d46520",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "3fcff9e20004e09832e96ac95ecd2c96d6aa38c0",
-    "/main.0032a79ca5cc77e3d52a.js": "a31f489d8b650993cf6fc608844708ab8d1ebca5",
+    "/index.html": "4c9b8e3b5b7affa8ef0fc879bdf0bb370920c1ac",
+    "/main.ab540308520ed07e10ca.js": "70181795ef063a54178a4037c936abc35a40d535",
     "/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.e6166db14e143b6a13dd.css": "54c511e4d045bf78394bdccb8aca6a83d524c556"

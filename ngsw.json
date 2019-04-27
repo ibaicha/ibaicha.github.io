@@ -124,9 +124,9 @@
         "\\/myrest_api\\/.*"
       ],
       "strategy": "freshness",
-      "maxSize": 5,
+      "maxSize": 100000,
       "maxAge": 21600000,
-      "timeoutMs": 10000,
+      "timeoutMs": 120000,
       "version": 1
     }
   ],

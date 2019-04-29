@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a2dd2e971fb1b1346a4f.js",
+        "/main.c1f25bccc02ad2effddd.js",
         "/polyfills.20ab2d163684112c2aba.js",
         "/runtime.ec2944dd8b20ec099bf3.js",
         "/styles.e6166db14e143b6a13dd.css"
@@ -76,6 +76,7 @@
         "/assets/images/cncas1.png",
         "/assets/images/future.png",
         "/assets/images/magasin.jpg",
+        "/assets/images/magasin2.jpg",
         "/assets/images/root - Copie.png",
         "/assets/images/root.png",
         "/assets/images/root1.png",
@@ -192,7 +193,8 @@
     "/assets/images/cncas.png": "a7cfb7d540e1fa1e46262b7f7c627f74584a6771",
     "/assets/images/cncas1.png": "56289ab8500bc0e6d43ed46e1e97caa47904ff92",
     "/assets/images/future.png": "455c163c9bb89cbdb902b1f21cd4704c92d9525a",
-    "/assets/images/magasin.jpg": "b0d91f053dcb387e099a72ff7db6bae418793d09",
+    "/assets/images/magasin.jpg": "b4d7aa530784c8163a92461685632f534fb88c3a",
+    "/assets/images/magasin2.jpg": "b0d91f053dcb387e099a72ff7db6bae418793d09",
     "/assets/images/root - Copie.png": "adddb966b859b6507c698b87b2348b908decc162",
     "/assets/images/root.png": "cde75de668b7794dea28e6e6324f9443c58599df",
     "/assets/images/root1.png": "02579a959b18d6d0ec6594acaffd0c8d294c7b9c",
@@ -236,8 +238,8 @@
     "/assets/scripts/turf.min.js": "299dda77ee38bd9ee3f69fb5a8009a028e611303",
     "/assets/scripts/waypoints.min.js": "812d7071b4e44b1aa5d5ea6c7ce0b79eb9d46520",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "88221ee484352984177be58f25d63666c220c1d4",
-    "/main.a2dd2e971fb1b1346a4f.js": "528b6b2266fc789d9fc4cf279df3390bebce225a",
+    "/index.html": "676440a70ca56712133b8e95a63f65e4344d4dac",
+    "/main.c1f25bccc02ad2effddd.js": "eef824d8fd0273465b0df55d66c19f8db974fb4f",
     "/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
     "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.e6166db14e143b6a13dd.css": "54c511e4d045bf78394bdccb8aca6a83d524c556"

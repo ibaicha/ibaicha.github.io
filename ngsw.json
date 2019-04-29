@@ -125,7 +125,7 @@
       ],
       "strategy": "freshness",
       "maxSize": 100000,
-      "maxAge": 21600000,
+      "maxAge": 2592000000,
       "timeoutMs": 120000,
       "version": 1
     }

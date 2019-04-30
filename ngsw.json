@@ -134,11 +134,11 @@
     {
       "name": "from-api",
       "patterns": [
-        "\\/myrest_api\\/.*"
+        "https:\\/\\/suivi-unite\\.org\\/rizerie\\/myrest_api\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 100000,
-      "maxAge": 31536000000,
+      "maxAge": 604800000,
       "timeoutMs": 120000,
       "version": 1
     }

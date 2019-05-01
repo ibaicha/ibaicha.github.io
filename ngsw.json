@@ -21,7 +21,6 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/.htaccess",
         "/assets/css/bootstrap.css",
         "/assets/css/closedhand.html",
         "/assets/css/colors/blue.css",
@@ -145,7 +144,6 @@
     }
   ],
   "hashTable": {
-    "/assets/.htaccess": "380a209abb86a1bd39b29cc6d82a949945c37693",
     "/assets/css/bootstrap.css": "b1a9ac2ddb20dbb5e9caf1aa16eee86dec380a9d",
     "/assets/css/closedhand.html": "d094380801c5fb412028ab5bb5328cb9ce8b496e",
     "/assets/css/colors/blue.css": "f886d3b44dd127a1d10d5ea062795a0ff3f61ec5",

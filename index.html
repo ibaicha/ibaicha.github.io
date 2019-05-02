@@ -55,3 +55,10 @@
 
 <script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.20ab2d163684112c2aba.js"></script><script type="text/javascript" src="main.09d8f67ed4ed8a78519c.js"></script></body>
 </html>
+<script>
+  if ( 'serviceWorker' in navigator ) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/ngsw-worker.js');
+    });
+  }
+</script>
